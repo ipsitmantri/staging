@@ -9,15 +9,6 @@ htmlwidgets: true
 authors:
   - name: Anonymous
 
-# authors:
-#   - name: Nevasini Sasikumar
-#     url: "https://nevasini24.wixsite.com/my-site-1"
-#     affiliations:
-#       name: Department of Computer Science, PES University
-#   - name: Krishna Sri Ipsit Mantri
-#     url: "https://ipsitmantri.github.io/"
-#     # affiliations:
-#     #   name: IAS, Princeton
 
 # must be the exact same name as your blogpost
 bibliography: 2023-01-15-Underfitting-and-Regularization-Finding-the-Right-Balance.bib
